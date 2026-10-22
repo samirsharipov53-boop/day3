@@ -1,0 +1,16 @@
+﻿// Product product = new Product("Constructor", 54.5);
+// Product product1 = new Product("Phone", 54.5);
+// Product product2 = new Product("Car", 54.5);
+// Product product3 = new Product("Constructor", 54.5);
+// Product product4 = new Product("Constructor", 54.5);
+//  Shop shop = new Shop();
+//  shop.AddProduct(product);
+//  shop.AddProduct( product1 );
+//  shop.AddProduct(  product2 );
+//  shop.AddProduct(  product3 );
+//  shop.AddProduct(   product4);
+//  shop.PrintProductList();
+Transport transport = new Transport();
+Plane plane = new Plane();
+Carr carr = new Carr();
+Train train = new Train();
